@@ -31,3 +31,13 @@
   position: relative;
   padding: 15rem 0;
 }
+
+.section-book {
+  padding: 15rem 0;
+  background: linear-gradient(to bottom right, $color-primary-light, $color-primary-dark);
+}
+
+.book {
+  background: url(../img/nat10.jpg);
+  background-size: 100%;
+}
